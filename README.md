@@ -5,6 +5,13 @@ A Java-applet with mutiplayer synchronisation techniques
 <img src="https://media.giphy.com/media/kE8CjtqCsyOjMDhptx/giphy.gif" alt="Logo">
 In order to run this you need to start up the RMIRegistry
 
+*Second Player Addition 
+
+Artificial Network Delay 
+
+Code Style and Readability*
+
+
 Console 1:
 
 ```
