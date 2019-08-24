@@ -17,16 +17,16 @@ cd C:\Users\User\eclipse-workspace\HoangCw3
 start rmiregistry
 
 ```
-Open up Eclipse:
-Open up this folder in eclipse 
--Open up Asteroids.java
--Theres a green bug next to the Play button (don’t click on it)
--Click on the black arrow next to the green bug, then click on debug configurations
--You should have a new window open up. There are like horizontal tabs, one says main, then parameters
--Click on parameters, change the width and height to say 600 or 800.
--Click on apply but don’t click run, just click apply and exit out
--Now click on the green bug
--WAIT for the first instance to load up and the asteroids to move
--Now click it green bug again and wait for second instance.
--Have them side by side and press s on both (one by one obviously)
--Now play!
+1. Open up Eclipse:
+2. Open up this folder in eclipse 
+3. Open up Asteroids.java
+4. Theres a green bug next to the Play button (don’t click on it)
+5. Click on the black arrow next to the green bug, then click on debug configurations
+6. You should have a new window open up. There are like horizontal tabs, one says main, then parameters
+7. Click on parameters, change the width and height to say 600 or 800.
+8. Click on apply but don’t click run, just click apply and exit out
+9. Now click on the green bug
+10. WAIT for the first instance to load up and the asteroids to move
+11. Now click it green bug again and wait for second instance.
+12.Have them side by side and press s on both (one by one obviously)
+13. Now play!
