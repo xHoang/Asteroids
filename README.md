@@ -2,7 +2,7 @@
 A Java-applet with mutiplayer synchronisation techniques
 
 ### How to run
-
+<img src="https://media.giphy.com/media/kE8CjtqCsyOjMDhptx/giphy.gif" alt="Logo">
 In order to run this you need to start up the RMIRegistry
 
 Console 1:
