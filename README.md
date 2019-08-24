@@ -1,11 +1,11 @@
 # Asteroids
 A Java-applet with mutiplayer synchronisation techniques
 
--Second Player Addition 
+- Second Player Addition 
 
--Artificial Network Delay 
+- Artificial Network Delay 
 
--Code Style and Readability
+- Code Style and Readability
 ### How to run
 <img src="https://media.giphy.com/media/kE8CjtqCsyOjMDhptx/giphy.gif" alt="Logo">
 
