@@ -5,7 +5,6 @@ A Java-applet with mutiplayer synchronisation techniques
 
 - Artificial Network Delay 
 
-- Code Style and Readability
 ### How to run
 <img src="https://media.giphy.com/media/kE8CjtqCsyOjMDhptx/giphy.gif" alt="Logo">
 
